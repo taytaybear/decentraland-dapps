@@ -11,7 +11,7 @@
     "@types/uuid": "^3.4.3",
     "axios": "^0.21.1",
     "date-fns": "^1.29.0",
-    "dcl-catalyst-client": "^14.0.9",
+    "dcl-catalyst-client": "^21.7.0",
     "decentraland-connect": "^3.5.0",
     "decentraland-crypto-fetch": "^1.0.3",
     "decentraland-transactions": "^1.44.0",
